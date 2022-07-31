@@ -11,6 +11,8 @@ package DepartmentApp;
  */
 public class DepApp {
     public static void main(String[] args) {
+        System.out.println("Selamat datang di MAIN");
+        System.out.println("========");
         
     }
     
