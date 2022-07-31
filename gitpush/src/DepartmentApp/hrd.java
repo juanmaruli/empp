@@ -11,6 +11,6 @@ package DepartmentApp;
  */
 public class hrd {
     int id;
-    String dep_name;
+    String id_dep;
     
 }

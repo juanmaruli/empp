@@ -10,5 +10,6 @@ package DepartmentApp;
  * @author juanm
  */
 public class manager {
+    int id_dep;
     
 }
